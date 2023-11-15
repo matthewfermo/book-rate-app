@@ -1,4 +1,4 @@
-# Book Rating App
+# Book Rating App 📚
 
 ## Introduction
 This app is a server-side book rating application that allows users to create a profile using their email and password. Users can submit book titles along with the authors' names, and these submissions are posted on a board for other users to upvote. The list of books is sorted from the most upvoted to the least.
