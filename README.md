@@ -32,7 +32,8 @@ This app is a server-side book rating application that allows users to create a 
 ## Technologies Used
 - Node -- JavaScript runtime for the backend
 - EJS -- Templating language for generating HTML markup with plain JavaScript
-- MongoDB -- NoSQL database for storing application data 
+- MongoDB -- NoSQL database for storing application data
+- HTML 
 
 ## Contributing
 Contributions to this project are welcome. Please follow these steps to contribute:
